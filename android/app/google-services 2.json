@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "553029417276",
+    "project_id": "mpd-finals",
+    "storage_bucket": "mpd-finals.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553029417276:android:0c759c04dace166dd48639",
+        "android_client_info": {
+          "package_name": "com.example.university_reviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553029417276-lh2kf3vv10m0nl6g3g9u01m1v3sla5cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEtv61C-HPeoKdzHMER2sCSNHmYHRYyzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553029417276-lh2kf3vv10m0nl6g3g9u01m1v3sla5cr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "553029417276-ob6ktou8i23k6kn51318j6mfqji01el4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jhom.uniRev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553029417276:android:275135a7d4cd064bd48639",
+        "android_client_info": {
+          "package_name": "com.jhom.uni_rev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553029417276-sbtk19jj9885kb62jgpqguptorn9is5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jhom.uni_rev",
+            "certificate_hash": "6b70f847a1e200baa356cd359f8037523865efdc"
+          }
+        },
+        {
+          "client_id": "553029417276-lh2kf3vv10m0nl6g3g9u01m1v3sla5cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEtv61C-HPeoKdzHMER2sCSNHmYHRYyzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553029417276-lh2kf3vv10m0nl6g3g9u01m1v3sla5cr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "553029417276-ob6ktou8i23k6kn51318j6mfqji01el4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jhom.uniRev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
